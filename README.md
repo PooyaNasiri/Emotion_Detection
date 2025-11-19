@@ -169,7 +169,6 @@ This captures the video feed, detects faces, and runs emotion detection for each
 ## 🧑‍💻 Author
 
 - **Pooya Nasiri**: Developer and AI enthusiast.
-- Feel free to reach out on [GitHub](https://github.com/PooyaNasiri) or [LinkedIn](https://linkedin.com/in/PooyaNasiri).
-
+- Feel free to reach out on [GitHub](https://github.com/PooyaNasiri) or [LinkedIn](https://linkedin.com/in/PooyaNasiri) or [My Portfolio](https://pooyanasiri.github.io)
 
 Enjoy building your real-time emotion detection system! 🎉
